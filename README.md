@@ -5,7 +5,7 @@
 It is Ali Tabesh submission for Getting and Cleaning Data course project. 
 
 
-You can find all information and instructions in "Code Book.Rmd" file and "run_analysis.R" script.
+You can find all information and instructions in "Code-Book.pdf" file and "run_analysis.R" script.
 
 ## Dataset
 find the information in website below:
@@ -13,7 +13,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 ## Files
 
-"Code Book.Rmd" a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
+"Code-Book.pdf" a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 
 "run_analysis.R" performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
 
